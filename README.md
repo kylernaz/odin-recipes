@@ -1,5 +1,5 @@
 # odin-recipes
 
-This is an HTML recipe project from The Odin Project!
+This is an HTML recipe project for The Odin Project!
 
-See https://theodinproject.com for more info.
+See https://theodinproject.com/about for more info.
